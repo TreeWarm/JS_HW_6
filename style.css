@@ -1,0 +1,47 @@
+body {
+	background-color: #cff;
+	font-size: 20px;
+}
+
+.product{
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+}
+
+
+.cart {
+    padding-top: 100px;
+    font-size: x-large;
+}
+
+.catalog {
+    padding-top: 100px;
+}
+
+.product {
+    display: flex;
+    width: 600px;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
+
+.productName {
+    width: 100px;
+
+}
+ .productButton {
+
+    height: 25px;
+}
+
+.productHeadline {
+    font-size: x-large;
+    padding-bottom: 20px;
+}
+
+.button-Box {
+    display: flex;
+    justify-content: space-between;
+}
+
